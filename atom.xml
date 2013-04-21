@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://tom76925.github.io/atom.xml" rel="self"/>
   <link href="http://tom76925.github.io/"/>
-  <updated>2013-04-21T12:36:38+08:00</updated>
+  <updated>2013-04-21T12:41:12+08:00</updated>
   <id>http://tom76925.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://tom76925.github.io/blog/2013/04/21/test/"/>
-    <updated>2013-04-21T12:24:00+08:00</updated>
-    <id>http://tom76925.github.io/blog/2013/04/21/test</id>
-    <content type="html"><![CDATA[<p>測試中文!</p>
+    <title type="html"><![CDATA[中文的標題]]></title>
+    <link href="http://tom76925.github.io/blog/2013/04/21/chinese/"/>
+    <updated>2013-04-21T12:38:00+08:00</updated>
+    <id>http://tom76925.github.io/blog/2013/04/21/chinese</id>
+    <content type="html"><![CDATA[<p>中文的內文!</p>
+
+<!-- more -->
+
+
+<p>更多內文</p>
 ]]></content>
   </entry>
   
